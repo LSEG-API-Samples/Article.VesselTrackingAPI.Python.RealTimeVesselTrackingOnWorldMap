@@ -54,3 +54,5 @@ Notes:
 - Positions arrive only when the vessel reports them, so the first update can take a couple of minutes. The status line above the maps shows how many positions have arrived and when the last message was received.
 - Run step 8 to stop tracking and step 9 to clear the maps.
 - Before sharing the notebook, clear its outputs because they can contain licensed vessel data.
+
+<img width="1263" height="950" alt="vessel-stream-img-1" src="https://github.com/user-attachments/assets/2ef6704b-7b8c-4d86-97dc-6110e87dc090" />
